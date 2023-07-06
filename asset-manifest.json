@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/RiskiManik/belajar-reactapp.git/static/css/main.14b1612d.css",
-    "main.js": "/RiskiManik/belajar-reactapp.git/static/js/main.b72e5619.js",
-    "static/media/home2.jpg": "/RiskiManik/belajar-reactapp.git/static/media/home2.dc3acc2df93cd1c45a99.jpg",
-    "index.html": "/RiskiManik/belajar-reactapp.git/index.html",
-    "main.14b1612d.css.map": "/RiskiManik/belajar-reactapp.git/static/css/main.14b1612d.css.map",
-    "main.b72e5619.js.map": "/RiskiManik/belajar-reactapp.git/static/js/main.b72e5619.js.map"
+    "main.css": "/belajar-reactapp/static/css/main.5c341d80.css",
+    "main.js": "/belajar-reactapp/static/js/main.b72e5619.js",
+    "static/media/home2.jpg": "/belajar-reactapp/static/media/home2.dc3acc2df93cd1c45a99.jpg",
+    "index.html": "/belajar-reactapp/index.html",
+    "main.5c341d80.css.map": "/belajar-reactapp/static/css/main.5c341d80.css.map",
+    "main.b72e5619.js.map": "/belajar-reactapp/static/js/main.b72e5619.js.map"
   },
   "entrypoints": [
-    "static/css/main.14b1612d.css",
+    "static/css/main.5c341d80.css",
     "static/js/main.b72e5619.js"
   ]
 }
