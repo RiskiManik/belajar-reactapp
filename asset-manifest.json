@@ -1,14 +1,38 @@
 {
   "files": {
     "main.css": "/belajar-reactapp/static/css/main.5c341d80.css",
-    "main.js": "/belajar-reactapp/static/js/main.b72e5619.js",
+    "main.js": "/belajar-reactapp/static/js/main.40a7c88a.js",
+    "static/media/home.jpg": "/belajar-reactapp/static/media/home.724f67d81c00d2548649.jpg",
+    "static/media/baju1.jpg": "/belajar-reactapp/static/media/baju1.ae7d4c7690d891a08b1f.jpg",
+    "static/media/fiction mockup.png": "/belajar-reactapp/static/media/fiction mockup.4cf93f55122786992f06.png",
+    "static/media/gojo mockup gig.png": "/belajar-reactapp/static/media/gojo mockup gig.8ea43860d7e87bd09e83.png",
+    "static/media/inoo.png": "/belajar-reactapp/static/media/inoo.cca15bb34a96c59f344b.png",
+    "static/media/decide mockup2.png": "/belajar-reactapp/static/media/decide mockup2.17409aca01f1a8d3523a.png",
+    "static/media/back luffy.png": "/belajar-reactapp/static/media/back luffy.23df179635f0d290c3b6.png",
+    "static/media/genetics back 3.png": "/belajar-reactapp/static/media/genetics back 3.7960487148174ef106be.png",
+    "static/media/nev.png": "/belajar-reactapp/static/media/nev.7d427bdca6c1314df9d0.png",
+    "static/media/back mockup 2.png": "/belajar-reactapp/static/media/back mockup 2.10f80dc00b0db1be670e.png",
+    "static/media/zulfiqar.png": "/belajar-reactapp/static/media/zulfiqar.12c1775bf4acabbb1aaf.png",
+    "static/media/purple back.png": "/belajar-reactapp/static/media/purple back.343a5dffdcd74e6e79e1.png",
+    "static/media/gold back.png": "/belajar-reactapp/static/media/gold back.f5564cbcb72b6aeea346.png",
+    "static/media/red back.png": "/belajar-reactapp/static/media/red back.4e283fb2724af4987a80.png",
+    "static/media/metal back.png": "/belajar-reactapp/static/media/metal back.c02727291886067ccd2e.png",
+    "static/media/home1.jpg": "/belajar-reactapp/static/media/home1.1b112b81261f6d394a29.jpg",
+    "static/media/purple front.png": "/belajar-reactapp/static/media/purple front.9fd9291842408af9ac61.png",
+    "static/media/metal front.png": "/belajar-reactapp/static/media/metal front.668eaadb094e5dd1f210.png",
+    "static/media/gold front.png": "/belajar-reactapp/static/media/gold front.ac92ac9bdc9700560427.png",
+    "static/media/red front.png": "/belajar-reactapp/static/media/red front.7375d191514db2f26225.png",
+    "static/media/sepatu8.jpg": "/belajar-reactapp/static/media/sepatu8.bf8789be3b9e99d1d36b.jpg",
+    "static/media/sepatu6.jpg": "/belajar-reactapp/static/media/sepatu6.14acec8c7d5f2074d933.jpg",
     "static/media/home2.jpg": "/belajar-reactapp/static/media/home2.dc3acc2df93cd1c45a99.jpg",
+    "static/media/sepatu9.jpg": "/belajar-reactapp/static/media/sepatu9.cba7a5756b78d3dcf578.jpg",
+    "static/media/sepatu7.jpg": "/belajar-reactapp/static/media/sepatu7.7be4e6ffaf1f15b92bc9.jpg",
     "index.html": "/belajar-reactapp/index.html",
     "main.5c341d80.css.map": "/belajar-reactapp/static/css/main.5c341d80.css.map",
-    "main.b72e5619.js.map": "/belajar-reactapp/static/js/main.b72e5619.js.map"
+    "main.40a7c88a.js.map": "/belajar-reactapp/static/js/main.40a7c88a.js.map"
   },
   "entrypoints": [
     "static/css/main.5c341d80.css",
-    "static/js/main.b72e5619.js"
+    "static/js/main.40a7c88a.js"
   ]
 }
