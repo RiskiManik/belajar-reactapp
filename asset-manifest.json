@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/belajar-reactapp/static/css/main.5c341d80.css",
-    "main.js": "/belajar-reactapp/static/js/main.40a7c88a.js",
+    "main.css": "/belajar-reactapp/static/css/main.a3de72e2.css",
+    "main.js": "/belajar-reactapp/static/js/main.ef8fcb39.js",
     "static/media/home.jpg": "/belajar-reactapp/static/media/home.724f67d81c00d2548649.jpg",
     "static/media/baju1.jpg": "/belajar-reactapp/static/media/baju1.ae7d4c7690d891a08b1f.jpg",
     "static/media/fiction mockup.png": "/belajar-reactapp/static/media/fiction mockup.4cf93f55122786992f06.png",
@@ -28,11 +28,11 @@
     "static/media/sepatu9.jpg": "/belajar-reactapp/static/media/sepatu9.cba7a5756b78d3dcf578.jpg",
     "static/media/sepatu7.jpg": "/belajar-reactapp/static/media/sepatu7.7be4e6ffaf1f15b92bc9.jpg",
     "index.html": "/belajar-reactapp/index.html",
-    "main.5c341d80.css.map": "/belajar-reactapp/static/css/main.5c341d80.css.map",
-    "main.40a7c88a.js.map": "/belajar-reactapp/static/js/main.40a7c88a.js.map"
+    "main.a3de72e2.css.map": "/belajar-reactapp/static/css/main.a3de72e2.css.map",
+    "main.ef8fcb39.js.map": "/belajar-reactapp/static/js/main.ef8fcb39.js.map"
   },
   "entrypoints": [
-    "static/css/main.5c341d80.css",
-    "static/js/main.40a7c88a.js"
+    "static/css/main.a3de72e2.css",
+    "static/js/main.ef8fcb39.js"
   ]
 }
